@@ -8843,6 +8843,14 @@
     "5cdccf93a5b369856691c1a51da025c0": {
       "status": "REVOKED",
       "reason": "KEY_COMPROMISE"
+    },
+    "b347a1c806fc81178a5722733e36f4df": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
+    },
+    "a3a3964cec08c1adf926d0885faae913": {
+      "status": "REVOKED",
+      "reason": "KEY_COMPROMISE"
     }
   }
 }
